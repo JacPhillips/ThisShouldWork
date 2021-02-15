@@ -4,4 +4,4 @@ don’t need a counting variable to access
  items in the iterable. Sometimes, though, you do want to have a variable that changes on each loop iteration. Rather than creating and incrementing a variable yourself, 
 you can use Python’s enumerate() to get a counter and the value from the iterable at the same time!
 
-this is a test for push and pull
+this is a test for push and pull and push
